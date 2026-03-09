@@ -8,7 +8,8 @@
            <P><em>Completez le formulaire. Les champs marqué * sont obligatioires</em></P>
            <form action="#">
                         <fieldset>
-                            <legend>contact
+                            <legend>contact</legend>
+                            <input type="text" placeholder="Nom Prenom">
                             <p>
                                 <lebel for="nom">nom*</lebel>
                             </p>    
@@ -16,5 +17,6 @@
                         </fieldset>
            </form>
      </body>
+
 
 </html>
