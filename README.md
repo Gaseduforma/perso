@@ -1,2 +1,21 @@
-# perso
-pratique HTML, CSS, JS
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Formulaire de participation</title>
+     </head>
+     <body>
+           <h1>Formulaire de participation</h1>
+           <P><em>Completez le formulaire. Les champs marqué * sont obligatioires</em></P>
+           <form action="#">
+                        <fieldset>
+                            <legend>contact
+                            <p>
+                                <lebel for="nom">nom*</lebel>
+                            </p>    
+                            </legend>
+                        </fieldset>
+           </form>
+     </body>
+
+</html>
+
